@@ -1,3 +1,5 @@
+//Shadhiya Shahul
+//58 CSE AI
 import java.util.Scanner;
 class palindrome
 {
